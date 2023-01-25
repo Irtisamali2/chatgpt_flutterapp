@@ -1,6 +1,5 @@
-# ChatGPT App in Flutter
-![image](https://user-images.githubusercontent.com/68317918/214564140-7b82a207-34ee-4fc5-91d4-dec35ab3441a.png)
-
+# ChatGPT App in Flutter Developed Bt Irtisam Ali
+![image](https://user-images.githubusercontent.com/68317918/214564473-9b56b02d-d591-46c4-8932-5ecf05de2e34.png)
 
 A new Flutter project.
 
