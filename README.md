@@ -1,4 +1,6 @@
-# chatgpt_flutterapp
+# ChatGPT App in Flutter
+![image](https://user-images.githubusercontent.com/68317918/214564140-7b82a207-34ee-4fc5-91d4-dec35ab3441a.png)
+
 
 A new Flutter project.
 
