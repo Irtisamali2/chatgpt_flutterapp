@@ -1,4 +1,4 @@
-# ChatGPT App in Flutter Developed Bt Irtisam Ali
+# ChatGPT App in Flutter Developed By Irtisam Ali
 ![image](https://user-images.githubusercontent.com/68317918/214564473-9b56b02d-d591-46c4-8932-5ecf05de2e34.png)
 
 A new Flutter project.
